@@ -24,6 +24,10 @@ npm run start:dev
 
 The app will start on http://localhost:3000.
 
+## Live URL
+
+You can try the running version here: https://showpad.devabhi.co.in/foo
+
 ## Test the endpoints
 
 The API requires a client ID in the Authorization header using the Bearer scheme.
